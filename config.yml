@@ -73,8 +73,8 @@ params:
 
   profileMode:
     enabled: true
-    title: Welcome to my blog!
-    subtitle: Tech insights for curious minds.
+    title: Shanmukeshwar
+    subtitle: "I'm a skilled and experienced developer with a passion for building innovative and impactful software solutions. With expertise in both frontend and backend technologies, I am able to deliver top-quality results that meet the needs of any project."
     imageUrl: "/images/profile.jpg"
     imageWidth: 120
     imageHeight: 120
