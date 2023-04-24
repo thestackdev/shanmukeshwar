@@ -74,7 +74,7 @@ params:
   profileMode:
     enabled: true
     title: Shanmukeshwar
-    subtitle: "I'm a skilled and experienced developer with a passion for building innovative and impactful software solutions. With expertise in both frontend and backend technologies, I am able to deliver top-quality results that meet the needs of any project."
+    subtitle: "I'm a skilled developer with a passion for building innovative and impactful software solutions. With expertise in both frontend and backend technologies, I am able to deliver top-quality results that meet the needs of any project."
     imageUrl: "/images/profile.jpg"
     imageWidth: 120
     imageHeight: 120
