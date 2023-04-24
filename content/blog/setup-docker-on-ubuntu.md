@@ -2,9 +2,11 @@
 title: "Setup docker on ubuntu"
 date: 2023-04-23T18:21:57+05:30
 draft: false
+cover:
+  image: "/blog/setup-docker-on-ubuntu.png"
+  alt: "Setup docker on ubuntu"
+  relative: false
 ---
-
-![Setup docker on Ubuntu](/blog/setup-docker-on-ubuntu.png)
 
 ### Step 1: Update Packages
 

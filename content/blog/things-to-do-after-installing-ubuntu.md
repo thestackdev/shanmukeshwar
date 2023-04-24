@@ -2,9 +2,11 @@
 title: "Things to do after installing Ubuntu Server"
 date: 2023-04-23T18:21:57+05:30
 draft: false
+cover:
+  image: "/blog/things-to-do-after-installing-ubuntu.png"
+  alt: "Setup docker on ubuntu"
+  relative: false
 ---
-
-![Things to do after installing Ubuntu Server](/blog/things-to-do-after-installing-ubuntu.png)
 
 When setting up a new Ubuntu 20.04 server, it's important to perform some essential configuration steps to increase its security and usability. These steps will give you a solid foundation for subsequent actions on your server. In this article, we'll cover the important configuration steps for an Ubuntu 20.04 server, and provide some guidance on how to use and maintain the server after completing the initial setup.
 

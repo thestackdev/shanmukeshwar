@@ -53,7 +53,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -109,6 +109,8 @@ params:
     hidden: true
     hiddenInList: true
     hiddenInSingle: false
+    responsiveImages: true
+    linkFullImages: true
 
   editPost:
     URL: ""
@@ -126,14 +128,19 @@ params:
 
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 1
+    # - identifier: search
+    #   # name: Search
+    #   url: /search/
+    #   post: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+    #   weight: 1
     - identifier: blog
       name: Blog
       url: /blog/
       weight: 2
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 3
 
 pygmentsUseClasses: true
 markup:
@@ -144,3 +151,9 @@ markup:
     guessSyntax: true
     lineNos: false
     style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
