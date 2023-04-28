@@ -2,6 +2,10 @@
 title: "How to setup Android SDK without Android Studio."
 date: 2023-04-23T18:21:57+05:30
 draft: false
+cover:
+  image: "/blog/android-sdk-linux.jpeg"
+  alt: Android SDK Logo"
+  relative: false
 ---
 
 The foundation of android mobile development using any library is the “Android SDK”. Android SDK is the prerequisite for building android apps, be it via native Kotlin, or other popular libraries like [React Native](http://reactnative.dev/?ref=blog.codefusionz.com) and [Flutter](https://flutter.dev/?ref=blog.codefusionz.com).

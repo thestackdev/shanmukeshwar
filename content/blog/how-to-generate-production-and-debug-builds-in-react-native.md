@@ -2,6 +2,10 @@
 title: "How to generate debug and production builds for react native android"
 date: 2023-04-23T18:21:57+05:30
 draft: false
+cover:
+  image: "/blog/react-native.png"
+  alt: "React Native"
+  relative: false
 ---
 
 ### Create Production Build Android

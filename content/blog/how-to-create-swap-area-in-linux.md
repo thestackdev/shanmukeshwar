@@ -2,6 +2,10 @@
 title: "How to create swap area in linux"
 date: 2023-04-23T18:21:57+05:30
 draft: false
+cover:
+  image: "/blog/linux.jpeg"
+  alt: "Linux"
+  relative: false
 ---
 
 If you're running Linux on a system with limited RAM, you may want to create a swap area to improve performance. A swap area allows your system to use disk space as virtual memory when your physical RAM is full. This can help prevent your system from crashing due to insufficient memory.

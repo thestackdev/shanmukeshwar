@@ -73,7 +73,7 @@ params:
 
   profileMode:
     enabled: true
-    title: Shanmukeshwar
+    title: Hi, I'm Shanmukeshwar!
     subtitle: "I'm a skilled developer with a passion for building innovative and impactful software solutions. With expertise in both frontend and backend technologies, I am able to deliver top-quality results that meet the needs of any project."
     imageUrl: "/images/profile.jpg"
     imageWidth: 120
@@ -96,6 +96,8 @@ params:
       url: "https://linkedin.com/in/shanmukeshwar/"
     - name: reddit
       url: "https://reddit.com/user/thestackdev"
+    - name: email
+      url: "mailto:shanmukeshwar@codefusionz.com"
 
   analytics:
     google:
@@ -106,8 +108,8 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true
-    hiddenInList: true
+    hidden: false
+    hiddenInList: false
     hiddenInSingle: false
     responsiveImages: true
     linkFullImages: true
@@ -128,9 +130,9 @@ params:
 
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 1
     - identifier: blog
       name: Blog
