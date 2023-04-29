@@ -56,7 +56,7 @@ params:
   comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -98,6 +98,8 @@ params:
       url: "https://reddit.com/user/thestackdev"
     - name: email
       url: "mailto:shanmukeshwar@codefusionz.com"
+    - name: RSS
+      url: "index.xml"
 
   analytics:
     google:
@@ -138,10 +140,14 @@ menu:
       name: Blog
       url: /blog/
       weight: 2
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 3
     - identifier: search
       name: Search
       url: /search/
-      weight: 3
+      weight: 4
 
 pygmentsUseClasses: true
 markup:
