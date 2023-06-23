@@ -1,6 +1,6 @@
 languageCode: en-us
-baseURL: "https://codefusionz.com/"
-title: Codefusionz
+baseURL: "https://shanmukeshwar.dev/"
+title: Shanmukeshwar
 paginate: 5
 theme: PaperMod
 
@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production
-  title: Codefusionz
+  title: Shanmukeshwar
   description: "Tech insights for curious minds."
   keywords:
     [
@@ -67,7 +67,7 @@ params:
     safari_pinned_tab: "/favicon/apple-touch-icon"
 
   label:
-    text: "Codefusionz"
+    text: "Shanmukeshwar"
     icon: ""
     iconHeight: 35
 
@@ -86,7 +86,7 @@ params:
         url: projects
 
   homeInfoParams:
-    Title: Codefusionz
+    Title: Shanmukeshwar
     Content: Tech insights for curious minds.
 
   socialIcons:
